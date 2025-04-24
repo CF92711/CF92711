@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+我姓張
+性別女
+目前就讀國立中山大學
+財務管理學系
+大學四年級
